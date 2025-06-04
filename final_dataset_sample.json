@@ -1,0 +1,1002 @@
+[
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Doctors and engineers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n.\u0629\u064a\u0628\u0631\u0639\u0644\u0627 \u0629\u0638\u0641\u0627\u062d\u0645\u0644\u0627 \u064a\u0641 \u0629\u062f\u062d\u0627\u0648 \u0629\u064a\u0645\u0644\u0627\u0639\u0644\u0627 \u062a\u0627\u0631\u0627\u0645\u0625 \u0646\u0627\u0643 \u064a\u0646\u0627\u0637\u0644\u0633\u0644\u0627  \n.\u0629\u064a\u0628\u0631\u0639\u0644\u0627 \u0629\u0638\u0641\u0627\u062d\u0645\u0644\u0627 \u062a\u0627\u0631\u0627\u0645\u0625 \u0646\u0645 \u062f\u062d\u0623 \u0646\u0627\u0643 \u064a\u0646\u0627\u0637\u0644\u0633\u0644\u0627  \n.\u0629\u064a\u0628\u0631\u0639\u0644\u0627 \u0629\u0638\u0641\u0627\u062d\u0645\u0644\u0627 \u062a\u0627\u0631\u0627\u0645\u0625 \u0646\u0645 \u062f\u062d\u0623 \u0646\u0627\u0643 \u064a\u0646\u0627\u0637\u0644\u0633\u0644\u0627  \n.\u0629\u064a\u0628\u0631\u0639\u0644\u0627 \u0629\u0638\u0641\u0627\u062d\u0645\u0644\u0627 \u062a\u0627\u0631\u0627\u0645\u0625 \u0646\u0645 \u062f\u062d\u0623 \u0646\u0627\u0643 \u064a\u0646\u0627\u0637\u0644\u0633\u0644\u0627\n\nWhat is the United Arab Emirates known for in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The United Arab Emirates is known for its oil production."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n.213715792 :\u0633\u0643\u0627\u0641\u0644\u0627 Fax: 790234267 .\u0642\u0627\u0632\u0631\u0644\u0627 \u062f\u0628\u0639 \u0645\u0627\u0633\u062a\u0628\u0627: \u0629\u064a\u062a\u0627\u0630\u0644\u0627 \u0629\u0631\u064a\u062f\u0645 Human resources: Ibtisam Abdelraziq  \n.\u0629\u064a\u0644\u0627\u0639 \u0629\u0631\u064a\u062f\u0645 \u064a\u0641 \u0629\u064a\u062a\u0627\u0630\u0644\u0627 \u0629\u0631\u064a\u062f\u0645 Human resources department is in the main building\n\nWhat is the fax number for the human resources department?"
+        },
+        {
+            "role": "user",
+            "content": "790234267"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nWhere is the human resources department located?"
+        },
+        {
+            "role": "user",
+            "content": "In the human resources building"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nWho is the contact person in the human resources department?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Doctors and engineers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n.\u0629\u064a\u0628\u0631\u0639\u0644\u0627 \u0629\u0638\u0641\u0627\u062d\u0645\u0644\u0627 \u064a\u0641 \u0629\u062f\u062d\u0627\u0648 \u0629\u064a\u0645\u0644\u0627\u0639\u0644\u0627 \u062a\u0627\u0631\u0627\u0645\u0625 \u0646\u0627\u0643 \u064a\u0646\u0627\u0637\u0644\u0633\u0644\u0627  \n.\u0629\u064a\u0628\u0631\u0639\u0644\u0627 \u0629\u0638\u0641\u0627\u062d\u0645\u0644\u0627 \u062a\u0627\u0631\u0627\u0645\u0625 \u0646\u0645 \u062f\u062d\u0623 \u0646\u0627\u0643 \u064a\u0646\u0627\u0637\u0644\u0633\u0644\u0627  \n.\u0629\u064a\u0628\u0631\u0639\u0644\u0627 \u0629\u0638\u0641\u0627\u062d\u0645\u0644\u0627 \u062a\u0627\u0631\u0627\u0645\u0625 \u0646\u0645 \u062f\u062d\u0623 \u0646\u0627\u0643 \u064a\u0646\u0627\u0637\u0644\u0633\u0644\u0627  \n.\u0629\u064a\u0628\u0631\u0639\u0644\u0627 \u0629\u0638\u0641\u0627\u062d\u0645\u0644\u0627 \u062a\u0627\u0631\u0627\u0645\u0625 \u0646\u0645 \u062f\u062d\u0623 \u0646\u0627\u0643 \u064a\u0646\u0627\u0637\u0644\u0633\u0644\u0627\n\nWhat is the United Arab Emirates known for in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The United Arab Emirates is known for its oil production."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u064a\u062d\u062a\u0627\u062c \u0627\u0644\u0645\u0637\u0639\u0645 \u0625\u0644\u0649 \u0645\u0648\u0638\u0641\u064a\u0646 \u062c\u062f\u062f. \u064a\u062c\u0628 \u0623\u0646 \u064a\u0639\u0645\u0644 \u0627\u0644\u0645\u0648\u0638\u0641\u0648\u0646 \u0645\u0646 \u0627\u0644\u0633\u0627\u0639\u0629 \u0668 \u0635\u0628\u0627\u062d\u064b\u0627 \u0625\u0644\u0649 \u0627\u0644\u0633\u0627\u0639\u0629 \u0664 \u0645\u0633\u0627\u0621\u064b. \u0627\u0644\u0631\u0627\u062a\u0628 \u0633\u064a\u0643\u0648\u0646 \u0661\u0660\u0660\u0660 \u062f\u0631\u0647\u0645 \u0641\u064a \u0627\u0644\u0634\u0647\u0631. \u0644\u0627 \u064a\u0634\u062a\u0631\u0637 \u062e\u0628\u0631\u0629 \u0633\u0627\u0628\u0642\u0629.\n\nWhat time do the employees need to work?"
+        },
+        {
+            "role": "user",
+            "content": "From 4 AM to 8 PM."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nHow much is the monthly salary?"
+        },
+        {
+            "role": "user",
+            "content": "100 dirhams."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nIs previous experience required for the job?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Doctors and engineers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0627\u0644\u064a\u0648\u0645 \u0647\u0648 \u064a\u0648\u0645 \u0627\u0644\u062c\u0645\u0639\u0629. \u0630\u0647\u0628 \u0623\u062d\u0645\u062f \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u0644\u0634\u0631\u0627\u0621 \u0627\u0644\u062e\u0628\u0632 \u0648\u0627\u0644\u0641\u0648\u0627\u0643\u0647. \u0642\u0627\u0628\u0644 \u0635\u062f\u064a\u0642\u0647 \u0645\u062d\u0645\u062f \u0641\u064a \u0627\u0644\u0633\u0648\u0642. \u062b\u0645 \u0639\u0627\u062f\u0627 \u0625\u0644\u0649 \u0627\u0644\u0628\u064a\u062a \u0645\u0639\u0627\u064b.\n\nWhat day of the week is it in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "It is Friday."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhere did Ahmed go?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed went to the mosque."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n.213715792 :\u0633\u0643\u0627\u0641\u0644\u0627 Fax: 790234267 .\u0642\u0627\u0632\u0631\u0644\u0627 \u062f\u0628\u0639 \u0645\u0627\u0633\u062a\u0628\u0627: \u0629\u064a\u062a\u0627\u0630\u0644\u0627 \u0629\u0631\u064a\u062f\u0645 Human resources: Ibtisam Abdelraziq  \n.\u0629\u064a\u0644\u0627\u0639 \u0629\u0631\u064a\u062f\u0645 \u064a\u0641 \u0629\u064a\u062a\u0627\u0630\u0644\u0627 \u0629\u0631\u064a\u062f\u0645 Human resources department is in the main building\n\nWhat is the fax number for the human resources department?"
+        },
+        {
+            "role": "user",
+            "content": "790234267"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nWhere is the human resources department located?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Doctors and engineers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u062a\u0641\u062a\u062d \u0627\u0644\u0645\u062a\u0627\u062c\u0631 \u0641\u064a \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062b\u0627\u0645\u0646\u0629 \u0635\u0628\u0627\u062d\u0627\u064b. \u064a\u0634\u062a\u0631\u064a \u0627\u0644\u0646\u0627\u0633 \u0627\u0644\u062e\u0628\u0632 \u0648\u0627\u0644\u062d\u0644\u064a\u0628 \u0645\u0646 \u0627\u0644\u0633\u0648\u0642. \u062a\u063a\u0644\u0642 \u0627\u0644\u0645\u0643\u062a\u0628\u0629 \u0641\u064a \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0633\u0627\u0621\u064b. \u0627\u0644\u0637\u0642\u0633 \u0627\u0644\u064a\u0648\u0645 \u0645\u0634\u0645\u0633 \u0648\u062f\u0627\u0641\u0626.\n\nWhat time do the shops open in the city?"
+        },
+        {
+            "role": "user",
+            "content": "The shops open at 8:00 AM."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat do people buy from the market?"
+        },
+        {
+            "role": "user",
+            "content": "People buy books and milk."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u0627\u0644\u064a\u0648\u0645 \u0647\u0648 \u064a\u0648\u0645 \u0627\u0644\u062c\u0645\u0639\u0629. \u0633\u0648\u0641 \u0623\u0630\u0647\u0628 \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u0645\u0639 \u0623\u0645\u064a. \u0633\u0646\u0634\u062a\u0631\u064a \u0627\u0644\u062e\u0628\u0632 \u0648\u0627\u0644\u0641\u0648\u0627\u0643\u0647. \u062b\u0645 \u0633\u0646\u0639\u0648\u062f \u0625\u0644\u0649 \u0627\u0644\u0628\u064a\u062a \u0642\u0628\u0644 \u0627\u0644\u0638\u0647\u0631.\n\nWhat day is it today?"
+        },
+        {
+            "role": "user",
+            "content": "It is Sunday."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nWhere will the speaker go with their mother?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to protect the body from water and dirt."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u064a\u0630\u0647\u0628 \u0623\u062d\u0645\u062f \u0625\u0644\u0649 \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0643\u0644 \u064a\u0648\u0645. \u064a\u062d\u0645\u0644 \u062d\u0642\u064a\u0628\u0629 \u062b\u0642\u064a\u0644\u0629 \u0641\u064a\u0647\u0627 \u0643\u062a\u0628 \u0648\u062f\u0641\u0627\u062a\u0631. \u064a\u0644\u0639\u0628 \u0645\u0639 \u0623\u0635\u062f\u0642\u0627\u0626\u0647 \u0641\u064a \u0627\u0644\u0641\u0633\u062d\u0629. \u064a\u0639\u0648\u062f \u0625\u0644\u0649 \u0627\u0644\u0628\u064a\u062a \u0639\u0646\u062f \u0627\u0644\u0638\u0647\u0631.\n\nWhere does Ahmed go every day?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed goes to the park every day."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u0627\u0644\u064a\u0648\u0645 \u0633\u064a\u0643\u0648\u0646 \u0627\u0644\u0637\u0642\u0633 \u0645\u0634\u0645\u0633\u0627\u064b \u0641\u064a \u0627\u0644\u0645\u062f\u064a\u0646\u0629. \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0633\u062a\u0643\u0648\u0646 \u0628\u064a\u0646 \u0662\u0660 \u0648\u0662\u0665 \u062f\u0631\u062c\u0629 \u0645\u0626\u0648\u064a\u0629. \u0633\u0648\u0641 \u062a\u0641\u062a\u062d \u0627\u0644\u0645\u062a\u0627\u062c\u0631 \u0623\u0628\u0648\u0627\u0628\u0647\u0627 \u0641\u064a \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062a\u0627\u0633\u0639\u0629 \u0635\u0628\u0627\u062d\u0627\u064b. \u064a\u0648\u062c\u062f \u062d\u062f\u064a\u0642\u0629 \u062c\u0645\u064a\u0644\u0629 \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062a\u062c\u0627\u0631\u064a.\n\nWhat will the weather be like in the city today?"
+        },
+        {
+            "role": "user",
+            "content": "The weather will be sunny."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat is the temperature range expected today?"
+        },
+        {
+            "role": "user",
+            "content": "Between 20 and 25 degrees Celsius."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhen do the shops open?"
+        },
+        {
+            "role": "user",
+            "content": "At 9:00 AM."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhere is the beautiful park located?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to protect the body from water and dirt."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0627\u0644\u0623\u0633\u0631\u0629 \u062a\u0630\u0647\u0628 \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u064a\u0648\u0645 \u0627\u0644\u0633\u0628\u062a. \u064a\u0634\u062a\u0631\u0648\u0646 \u0627\u0644\u062e\u0636\u0627\u0631 \u0648\u0627\u0644\u0641\u0648\u0627\u0643\u0647. \u0627\u0644\u0623\u0628 \u064a\u062d\u0628 \u0627\u0644\u062a\u0641\u0627\u062d\u060c \u0648\u0627\u0644\u0623\u0645 \u062a\u0641\u0636\u0644 \u0627\u0644\u0645\u0648\u0632. \u0627\u0644\u0627\u0628\u0646 \u0627\u0644\u0635\u063a\u064a\u0631 \u064a\u0631\u064a\u062f \u0634\u0631\u0627\u0621 \u062d\u0644\u0648\u0649.\n\nWhere does the family go on Saturday?"
+        },
+        {
+            "role": "user",
+            "content": "The family goes to the market."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat does the father like to buy?"
+        },
+        {
+            "role": "user",
+            "content": "The father likes to buy bananas."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u064a\u0630\u0647\u0628 \u0623\u062d\u0645\u062f \u0625\u0644\u0649 \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0643\u0644 \u064a\u0648\u0645. \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0643\u0628\u064a\u0631\u0629 \u0648\u0644\u0647\u0627 \u062d\u062f\u064a\u0642\u0629 \u062c\u0645\u064a\u0644\u0629. \u064a\u0644\u0639\u0628 \u0623\u062d\u0645\u062f \u0645\u0639 \u0623\u0635\u062f\u0642\u0627\u0626\u0647 \u0641\u064a \u0627\u0644\u062d\u062f\u064a\u0642\u0629. \u064a\u062d\u0628 \u0623\u062d\u0645\u062f \u062f\u0631\u0633 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0644\u0623\u0646\u0647 \u0645\u0645\u062a\u0639.\n\nWhere does Ahmed go every day?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed goes to school every day."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat does Ahmed like about his school?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed likes the math class because it is fun."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nWhat subject does Ahmed enjoy?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Athletes and soldiers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat additional features does the material have besides generating energy?"
+        },
+        {
+            "role": "user",
+            "content": "It can also change color based on temperature."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u064a\u0630\u0647\u0628 \u0623\u062d\u0645\u062f \u0625\u0644\u0649 \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0643\u0644 \u064a\u0648\u0645. \u064a\u062d\u0645\u0644 \u062d\u0642\u064a\u0628\u0629 \u0641\u064a\u0647\u0627 \u0643\u062a\u0628 \u0648\u062f\u0641\u0627\u062a\u0631. \u064a\u0644\u0639\u0628 \u0645\u0639 \u0623\u0635\u062f\u0642\u0627\u0626\u0647 \u0641\u064a \u0627\u0644\u0641\u0633\u062d\u0629. \u064a\u0639\u0648\u062f \u0625\u0644\u0649 \u0627\u0644\u0628\u064a\u062a \u0639\u0646\u062f \u0627\u0644\u0638\u0647\u0631.\n\nWhere does Ahmed go every day?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed goes to school every day."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat does Ahmed carry in his bag?"
+        },
+        {
+            "role": "user",
+            "content": "He carries food and water."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u0627\u0644\u0645\u062f\u0631\u0633 \u0627\u0644\u062c\u062f\u064a\u062f \u064a\u062c\u0628 \u0623\u0646 \u064a\u0643\u0648\u0646 \u062d\u0627\u0635\u0644\u0627\u064b \u0639\u0644\u0649 \u0634\u0647\u0627\u062f\u0629 \u062c\u0627\u0645\u0639\u064a\u0629 \u0641\u064a \u0627\u0644\u062a\u0631\u0628\u064a\u0629. \u064a\u062c\u0628 \u0623\u0646 \u064a\u0643\u0648\u0646 \u0644\u062f\u064a\u0647 \u062e\u0628\u0631\u0629 \u0633\u0646\u062a\u064a\u0646 \u0641\u064a \u0627\u0644\u062a\u062f\u0631\u064a\u0633. \u0627\u0644\u0639\u0645\u0644 \u064a\u0628\u062f\u0623 \u0641\u064a \u0627\u0644\u0623\u0648\u0644 \u0645\u0646 \u0633\u0628\u062a\u0645\u0628\u0631. \u0627\u0644\u0631\u0627\u062a\u0628 \u062c\u064a\u062f \u0648\u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u062a\u0648\u0641\u0631 \u0648\u062c\u0628\u0627\u062a \u063a\u062f\u0627\u0621.\n\nWhat degree must the new teacher have?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to protect the body from water and dirt."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0633\u0627\u0631\u0629 \u062a\u062d\u0628 \u0627\u0644\u0630\u0647\u0627\u0628 \u0625\u0644\u0649 \u0627\u0644\u0645\u062f\u0631\u0633\u0629. \u062a\u062f\u0631\u0633 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0648\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629. \u0628\u0639\u062f \u0627\u0644\u0645\u062f\u0631\u0633\u0629\u060c \u062a\u0644\u0639\u0628 \u0645\u0639 \u0635\u062f\u064a\u0642\u0627\u062a\u0647\u0627 \u0641\u064a \u0627\u0644\u062d\u062f\u064a\u0642\u0629. \u062a\u0639\u0648\u062f \u0625\u0644\u0649 \u0627\u0644\u0628\u064a\u062a \u0639\u0646\u062f \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629.\n\nWhat does Sara like to do?"
+        },
+        {
+            "role": "user",
+            "content": "Sara likes to play in the park."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u062a\u062d\u062a\u0627\u062c \u0625\u0644\u0649 \u062e\u0645\u0633\u0629 \u0645\u0639\u0644\u0645\u064a\u0646. \u064a\u062c\u0628 \u0623\u0646 \u064a\u0643\u0648\u0646 \u0627\u0644\u0645\u062a\u0642\u062f\u0645 \u062d\u0627\u0635\u0644\u0627\u064b \u0639\u0644\u0649 \u0634\u0647\u0627\u062f\u0629 \u062c\u0627\u0645\u0639\u064a\u0629. \u0633\u0627\u0639\u0627\u062a \u0627\u0644\u0639\u0645\u0644 \u0645\u0646 \u0627\u0644\u062b\u0627\u0645\u0646\u0629 \u0635\u0628\u0627\u062d\u0627\u064b \u0625\u0644\u0649 \u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0638\u0647\u0631\u0627\u064b. \u0627\u0644\u0631\u0627\u062a\u0628 \u0633\u064a\u0643\u0648\u0646 \u0623\u0644\u0641\u064a \u0631\u064a\u0627\u0644 \u0634\u0647\u0631\u064a\u0627\u064b.\n\nHow many teachers does the school need?"
+        },
+        {
+            "role": "user",
+            "content": "The school needs fifteen teachers."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nWhat is the required qualification for applicants?"
+        },
+        {
+            "role": "user",
+            "content": "Applicants must have a university degree."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat are the working hours?"
+        },
+        {
+            "role": "user",
+            "content": "Working hours are from 10:00 AM to 4:00 PM."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nWhat is the monthly salary?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Athletes and soldiers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat additional features does the material have besides generating energy?"
+        },
+        {
+            "role": "user",
+            "content": "It can also change color based on temperature."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u062a\u0642\u0639 \u0645\u062f\u064a\u0646\u0629 \u062f\u0628\u064a \u0641\u064a \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u062f\u0628\u064a \u0645\u062f\u064a\u0646\u0629 \u0643\u0628\u064a\u0631\u0629 \u0648\u0645\u0634\u0647\u0648\u0631\u0629 \u0628\u0627\u0644\u0623\u0628\u0631\u0627\u062c \u0627\u0644\u0639\u0627\u0644\u064a\u0629 \u0648\u0627\u0644\u0623\u0633\u0648\u0627\u0642 \u0627\u0644\u0643\u0628\u064a\u0631\u0629. \u064a\u0632\u0648\u0631 \u062f\u0628\u064a \u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0633\u064a\u0627\u062d \u0643\u0644 \u0639\u0627\u0645 \u0644\u0623\u0646 \u0627\u0644\u0637\u0642\u0633 \u0641\u064a\u0647\u0627 \u062f\u0627\u0641\u0626 \u0648\u0627\u0644\u0634\u0648\u0627\u0637\u0626 \u062c\u0645\u064a\u0644\u0629.\n\nWhere is Dubai located?"
+        },
+        {
+            "role": "user",
+            "content": "Dubai is located in the United Arab Emirates."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhy do many tourists visit Dubai every year?"
+        },
+        {
+            "role": "user",
+            "content": "Because the weather is warm and the beaches are beautiful."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat is Dubai famous for?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to protect the body from water and dirt."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0623\u062d\u0645\u062f \u0637\u0627\u0644\u0628 \u0641\u064a \u0627\u0644\u0645\u062f\u0631\u0633\u0629. \u064a\u062d\u0628 \u0623\u062d\u0645\u062f \u0644\u0639\u0628 \u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645 \u0645\u0639 \u0623\u0635\u062f\u0642\u0627\u0626\u0647. \u064a\u0630\u0647\u0628 \u0623\u062d\u0645\u062f \u0625\u0644\u0649 \u0627\u0644\u062d\u062f\u064a\u0642\u0629 \u0643\u0644 \u064a\u0648\u0645 \u0628\u0639\u062f \u0627\u0644\u0645\u062f\u0631\u0633\u0629. \u0627\u0644\u062d\u062f\u064a\u0642\u0629 \u0643\u0628\u064a\u0631\u0629 \u0648\u062c\u0645\u064a\u0644\u0629.\n\nWhat is Ahmed's hobby?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed's hobby is playing football with his friends."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhere does Ahmed go every day after school?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed goes to the school every day after school."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u0633\u0645\u064e\u0631\u064c\u062f \u064b\u0629\u0626\u0645\u0628 \u0649\u0644\u0639 \u064b\u0641 \u064b\u0629\u0639\u0645\u0627\u062c\u0644\u0627 .\u0629\u0626\u0645\u0628\u0644\u0627 \u062a\u0646\u0627\u0643 \u0627\u0630\u0625 \u060c\u064b\u0644 \u064b\u0627\u062f\u062c \u0628\u0633\u0627\u0646\u0645\u064f \u0631\u0627\u062c\u064c\u0650\u0644\u0627\u0627 \u061f\u0629\u0626\u0645\u0628\u0644\u0627 \u0637\u0631\u0634 \u064b\u0647 \u0627\u0645 .\u064b\u0629\u062f\u062d\u0627\u0648 \u0629\u0639\u0627\u0633 \u064a\u0641 \u0629\u0626\u0645\u0628\u0644\u0627 \u0644\u062e\u0627\u062f \u064b\u0629\u0646\u0633\u062c .\u064b\u0629\u062b\u0644\u0627\u062b \u0629\u0639\u0627\u0633 \u064a\u0641 \u0629\u0626\u0645\u0628\u0644\u0627 \u0644\u062e\u0627\u062f \u064b\u0629\u0639\u0628\u0631\n\nWhere is the apartment located?"
+        },
+        {
+            "role": "user",
+            "content": "The apartment is located in a shopping mall."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nWhat time can you visit the apartment?"
+        },
+        {
+            "role": "user",
+            "content": "You can visit the apartment at one o'clock or three o'clock."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nHow much is the rent for the apartment?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Doctors and engineers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0630\u0647\u0628\u062a \u0633\u0627\u0631\u0629 \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u0644\u0634\u0631\u0627\u0621 \u0627\u0644\u062e\u0636\u0627\u0631 \u0648\u0627\u0644\u0641\u0648\u0627\u0643\u0647. \u0627\u0634\u062a\u0631\u062a \u062a\u0641\u0627\u062d\u0627\u064b \u0648\u0645\u0648\u0632\u0627\u064b \u0648\u062e\u064a\u0627\u0631\u0627\u064b. \u062b\u0645 \u0639\u0627\u062f\u062a \u0625\u0644\u0649 \u0627\u0644\u0628\u064a\u062a \u0648\u062d\u0636\u0631\u062a \u0627\u0644\u063a\u062f\u0627\u0621 \u0644\u0639\u0627\u0626\u0644\u062a\u0647\u0627. \u0643\u0627\u0646\u062a \u0627\u0644\u0648\u062c\u0628\u0629 \u0644\u0630\u064a\u0630\u0629 \u0648\u0623\u0639\u062c\u0628 \u0628\u0647\u0627 \u0627\u0644\u062c\u0645\u064a\u0639.\n\nWhere did Sarah go?"
+        },
+        {
+            "role": "user",
+            "content": "Sarah went to the market."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat did Sarah buy?"
+        },
+        {
+            "role": "user",
+            "content": "She bought apples, bananas, and cucumbers."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat did Sarah do after returning home?"
+        },
+        {
+            "role": "user",
+            "content": "She prepared lunch for her family."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nHow was the meal?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Doctors and engineers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0630\u0647\u0628\u062a \u0633\u0627\u0631\u0629 \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u0644\u0634\u0631\u0627\u0621 \u0641\u0648\u0627\u0643\u0647 \u0648\u062e\u0636\u0631\u0648\u0627\u062a. \u0627\u0634\u062a\u0631\u062a \u062a\u0641\u0627\u062d\u0627\u064b \u0648\u0645\u0648\u0632\u0627\u064b \u0648\u062c\u0632\u0631\u0627\u064b. \u062b\u0645 \u0639\u0627\u062f\u062a \u0625\u0644\u0649 \u0627\u0644\u0645\u0646\u0632\u0644 \u0648\u062d\u0636\u0631\u062a \u0639\u0635\u064a\u0631\u0627\u064b \u0637\u0627\u0632\u062c\u0627\u064b. \u0641\u064a \u0627\u0644\u0645\u0633\u0627\u0621\u060c \u0632\u0627\u0631\u062a \u0635\u062f\u064a\u0642\u062a\u0647\u0627 \u0644\u064a\u0644\u0649 \u0648\u0634\u0631\u0628\u062a\u0627 \u0627\u0644\u0639\u0635\u064a\u0631 \u0645\u0639\u0627\u064b.\n\nWhere did Sarah go?"
+        },
+        {
+            "role": "user",
+            "content": "Sarah went to the park."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u0630\u0647\u0628 \u0623\u062d\u0645\u062f \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u064a\u0648\u0645 \u0627\u0644\u0633\u0628\u062a. \u0627\u0634\u062a\u0631\u0649 \u062a\u0641\u0627\u062d\u0627\u064b \u0648\u062e\u0628\u0632\u0627\u064b \u0648\u062d\u0644\u064a\u0628\u0627\u064b. \u062b\u0645 \u0639\u0627\u062f \u0625\u0644\u0649 \u0628\u064a\u062a\u0647 \u0628\u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629. \u0643\u0627\u0646\u062a \u0623\u0645\u0647 \u0633\u0639\u064a\u062f\u0629 \u0628\u0627\u0644\u0623\u0634\u064a\u0627\u0621 \u0627\u0644\u062a\u064a \u0623\u062d\u0636\u0631\u0647\u0627.\n\nWhere did Ahmed go on Saturday?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed went to the park."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nWhat did Ahmed buy?"
+        },
+        {
+            "role": "user",
+            "content": "He bought apples, bread, and milk."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat time did Ahmed return home?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to protect the body from water and dirt."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0627\u0644\u0623\u0633\u0631\u0629 \u062a\u0630\u0647\u0628 \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u064a\u0648\u0645 \u0627\u0644\u0633\u0628\u062a. \u064a\u0634\u062a\u0631\u0648\u0646 \u0627\u0644\u0641\u0648\u0627\u0643\u0647 \u0648\u0627\u0644\u062e\u0636\u0631\u0648\u0627\u062a. \u0627\u0644\u0623\u0628 \u064a\u062d\u0628 \u0627\u0644\u062a\u0641\u0627\u062d\u060c \u0648\u0627\u0644\u0623\u0645 \u062a\u0641\u0636\u0644 \u0627\u0644\u0645\u0648\u0632. \u0627\u0644\u0627\u0628\u0646 \u0627\u0644\u0635\u063a\u064a\u0631 \u064a\u0631\u064a\u062f \u0627\u0644\u0628\u0631\u062a\u0642\u0627\u0644.\n\nWhere does the family go on Saturday?"
+        },
+        {
+            "role": "user",
+            "content": "They go to the park."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u0633\u0627\u0631\u0629 \u0637\u0627\u0644\u0628\u0629 \u0641\u064a \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0627\u0628\u062a\u062f\u0627\u0626\u064a\u0629. \u062a\u0630\u0647\u0628 \u0633\u0627\u0631\u0629 \u0625\u0644\u0649 \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0643\u0644 \u064a\u0648\u0645 \u0635\u0628\u0627\u062d\u0627\u064b. \u062a\u062d\u0628 \u0633\u0627\u0631\u0629 \u0645\u0627\u062f\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0648\u062a\u0644\u0639\u0628 \u0645\u0639 \u0635\u062f\u064a\u0642\u0627\u062a\u0647\u0627 \u0641\u064a \u0627\u0644\u0641\u0633\u062d\u0629. \u062a\u0639\u0648\u062f \u0633\u0627\u0631\u0629 \u0625\u0644\u0649 \u0627\u0644\u0628\u064a\u062a \u0639\u0646\u062f \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0638\u0647\u0631\u0627\u064b.\n\nWhat is Sara's occupation?"
+        },
+        {
+            "role": "user",
+            "content": "Sara is a student in elementary school."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhen does Sara go to school?"
+        },
+        {
+            "role": "user",
+            "content": "Sara goes to school every morning."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat subject does Sara like?"
+        },
+        {
+            "role": "user",
+            "content": "Sara likes mathematics."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat time does Sara return home?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Athletes and soldiers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat additional features does the material have besides generating energy?"
+        },
+        {
+            "role": "user",
+            "content": "It is water-resistant and stain-resistant."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat small devices can the energy be used to power?"
+        },
+        {
+            "role": "user",
+            "content": "Small devices like watches or phones."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\n\u0627\u0641\u062a\u062a\u062d\u062a \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636 \u0645\u0639\u0631\u0636 \u0627\u0644\u0643\u062a\u0627\u0628 \u0627\u0644\u062f\u0648\u0644\u064a \u0641\u064a \u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0644\u0643 \u0641\u0647\u062f \u0627\u0644\u062b\u0642\u0627\u0641\u064a. \u0634\u0627\u0631\u0643 \u0641\u064a \u0627\u0644\u0627\u0641\u062a\u062a\u0627\u062d \u0648\u0632\u064a\u0631 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0627\u0644\u0623\u0645\u064a\u0631 \u0628\u062f\u0631 \u0628\u0646 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0628\u0646 \u0641\u0631\u062d\u0627\u0646\u060c \u062d\u064a\u062b \u0623\u0644\u0642\u0649 \u0643\u0644\u0645\u0629 \u0623\u0634\u0627\u062f \u0641\u064a\u0647\u0627 \u0628\u062f\u0648\u0631 \u0627\u0644\u0645\u0639\u0631\u0636 \u0641\u064a \u0646\u0634\u0631 \u0627\u0644\u0645\u0639\u0631\u0641\u0629. \u0632\u0627\u0631 \u0627\u0644\u0645\u0639\u0631\u0636 \u0623\u0643\u062b\u0631 \u0645\u0646 100 \u0623\u0644\u0641 \u0634\u062e\u0635 \u0641\u064a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0648\u0644\u060c \u0648\u0636\u0645 \u0623\u0643\u062b\u0631 \u0645\u0646 500 \u062f\u0627\u0631 \u0646\u0634\u0631 \u0645\u0646 30 \u062f\u0648\u0644\u0629. \u064a\u0647\u062f\u0641 \u0627\u0644\u0645\u0639\u0631\u0636 \u0625\u0644\u0649 \u062a\u0634\u062c\u064a\u0639 \u0627\u0644\u0642\u0631\u0627\u0621\u0629 \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u062b\u0642\u0627\u0641\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0634\u0639\u0648\u0628.\n\nWhere did the International Book Fair take place?"
+        },
+        {
+            "role": "user",
+            "content": "The International Book Fair took place at the King Fahd Cultural Center in Riyadh."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho participated in the opening ceremony of the fair?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Doctors and engineers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0630\u0647\u0628\u062a \u0633\u0627\u0631\u0629 \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u0635\u0628\u0627\u062d\u064b\u0627. \u0627\u0634\u062a\u0631\u062a \u062a\u0641\u0627\u062d\u064b\u0627 \u0648\u062e\u0628\u0632\u064b\u0627. \u062b\u0645 \u0639\u0627\u062f\u062a \u0625\u0644\u0649 \u0627\u0644\u0628\u064a\u062a. \u0643\u0627\u0646\u062a \u0633\u0639\u064a\u062f\u0629 \u0628\u0634\u0631\u0627\u0626\u0647\u0627.\n\nWhere did Sarah go in the morning?"
+        },
+        {
+            "role": "user",
+            "content": "Sarah went to the park in the morning."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u062a\u0642\u0639 \u0641\u064a \u0634\u0627\u0631\u0639 \u0627\u0644\u0646\u062e\u064a\u0644 \u0628\u062c\u0648\u0627\u0631 \u0627\u0644\u0633\u0648\u0642 \u0627\u0644\u0643\u0628\u064a\u0631. \u062a\u0641\u062a\u062d \u0627\u0644\u0645\u0643\u062a\u0628\u0629 \u0645\u0646 \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062a\u0627\u0633\u0639\u0629 \u0635\u0628\u0627\u062d\u0627\u064b \u062d\u062a\u0649 \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0633\u0627\u0621\u064b \u0645\u0646 \u0627\u0644\u0623\u062d\u062f \u0625\u0644\u0649 \u0627\u0644\u062e\u0645\u064a\u0633. \u064a\u0645\u0643\u0646 \u0644\u0644\u0632\u0648\u0627\u0631 \u0627\u0633\u062a\u0639\u0627\u0631\u0629 \u0643\u062a\u0627\u0628\u064a\u0646 \u0644\u0645\u062f\u0629 \u0623\u0633\u0628\u0648\u0639\u064a\u0646. \u0631\u0642\u0645 \u0627\u0644\u0647\u0627\u062a\u0641 \u0644\u0644\u0627\u0633\u062a\u0641\u0633\u0627\u0631\u0627\u062a \u0647\u0648 \u0660\u0667\u0669\u0660\u0661\u0661\u0662\u0662\u0663.\n\nWhere is the City Library located?"
+        },
+        {
+            "role": "user",
+            "content": "It is located on Palm Street, next to the Big Market."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat are the library's opening hours?"
+        },
+        {
+            "role": "user",
+            "content": "It opens from 5:00 AM to 9:00 PM."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nHow many books can visitors borrow at once?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to protect the body from water and dirt."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0639\u0644\u064a \u0634\u0627\u0628 \u0641\u064a \u0627\u0644\u0639\u0634\u0631\u064a\u0646\u064a\u0627\u062a \u0645\u0646 \u0639\u0645\u0631\u0647. \u064a\u0639\u064a\u0634 \u0641\u064a \u0634\u0642\u0629 \u0635\u063a\u064a\u0631\u0629 \u0641\u064a \u0627\u0644\u0645\u062f\u064a\u0646\u0629. \u0644\u062f\u064a\u0647 \u0643\u0644\u0628 \u0623\u0633\u0648\u062f \u0627\u0633\u0645\u0647 \"\u0646\u0648\u0631\". \u0643\u0644 \u064a\u0648\u0645\u060c \u064a\u0630\u0647\u0628 \u0639\u0644\u064a \u0625\u0644\u0649 \u0627\u0644\u0639\u0645\u0644 \u0628\u0627\u0644\u062d\u0627\u0641\u0644\u0629 \u0641\u064a \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062b\u0627\u0645\u0646\u0629 \u0635\u0628\u0627\u062d\u0627\u064b. \u064a\u0639\u0645\u0644 \u0641\u064a \u0645\u0642\u0647\u0649 \u0648\u064a\u0642\u062f\u0645 \u0627\u0644\u0642\u0647\u0648\u0629 \u0644\u0644\u0632\u0628\u0627\u0626\u0646.\n\nHow old is Ali?"
+        },
+        {
+            "role": "user",
+            "content": "Ali is in his thirties."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n.\u0629\u0631\u0634\u0639 \u0648\u0623 \u0629\u0639\u0628\u0631\u0623 \u0646\u0639 \u0644\u0642\u0644\u0623\u0627 \u0649\u0644\u0639 \u062a\u0627\u0648\u0646\u0633 \u062b\u0644\u0627\u062b \u0646\u0639 \u0645\u062f\u0642\u062a\u0645\u0644\u0627 \u0646\u0648\u0643\u064a \u0646\u0627 \u0628\u062c\u064a .\u0629\u064a\u0626\u0627\u0635\u062d\u0644\u0625\u0627 \u062a\u0627\u0633\u0633\u0624\u0645\u0644\u0627 \u064a\u0641 \u0629\u0644\u0645\u0627\u0643 \u062a\u0627\u0645\u0648\u0644\u0639\u0645 \u0646\u0639 \u0645\u062f\u0642\u062a\u0645\u0644\u0627 \u0641\u0627\u0634\u0643\u062a\u0633\u0627 \u0646\u0627 \u0628\u062c\u064a .\u0629\u064a\u0628\u0631\u0639\u0644\u0627 \u0629\u063a\u0644\u0644\u0627 \u064a\u0641 \u0629\u0628\u0627\u062a\u0643 \u062a\u0627\u0645\u0648\u0644\u0639\u0645 \u0646\u0639\n\nWhat must the applicant know about?"
+        },
+        {
+            "role": "user",
+            "content": "The applicant must know about written information in the Arabic language."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nHow many years of experience are required?"
+        },
+        {
+            "role": "user",
+            "content": "No less than three years of experience."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhere should the applicant work?"
+        },
+        {
+            "role": "user",
+            "content": "In health institutions."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat language is mentioned in the passage?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to protect the body from water and dirt."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u062a\u0641\u062a\u062d \u0627\u0644\u0645\u0643\u062a\u0628\u0629 \u0623\u0628\u0648\u0627\u0628\u0647\u0627 \u064a\u0648\u0645\u064a\u0627\u064b \u0645\u0646 \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062a\u0627\u0633\u0639\u0629 \u0635\u0628\u0627\u062d\u0627\u064b \u062d\u062a\u0649 \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0633\u0627\u0621\u064b. \u062a\u0642\u0639 \u0627\u0644\u0645\u0643\u062a\u0628\u0629 \u0628\u062c\u0648\u0627\u0631 \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0627\u0628\u062a\u062f\u0627\u0626\u064a\u0629 \u0641\u064a \u0648\u0633\u0637 \u0627\u0644\u0645\u062f\u064a\u0646\u0629. \u062a\u062d\u062a\u0648\u064a \u0627\u0644\u0645\u0643\u062a\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0643\u062a\u0628 \u0627\u0644\u0645\u062e\u0635\u0635\u0629 \u0644\u0644\u0623\u0637\u0641\u0627\u0644 \u0648\u0627\u0644\u0643\u0628\u0627\u0631. \u064a\u0645\u0643\u0646 \u0644\u0644\u062c\u0645\u064a\u0639 \u0627\u0633\u062a\u0639\u0627\u0631\u0629 \u0627\u0644\u0643\u062a\u0628 \u0645\u062c\u0627\u0646\u0627\u064b.\n\nWhat time does the library open?"
+        },
+        {
+            "role": "user",
+            "content": "The library opens at 9:00 AM."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhere is the library located?"
+        },
+        {
+            "role": "user",
+            "content": "The library is located next to the elementary school in the city center."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho can borrow books from the library?"
+        },
+        {
+            "role": "user",
+            "content": "Everyone can borrow books."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nAre there books for adults in the library?"
+        },
+        {
+            "role": "user",
+            "content": "Yes, the library has books for both children and adults."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\n\u062a\u0641\u062a\u062d \u0627\u0644\u0645\u0643\u062a\u0628\u0629 \u0623\u0628\u0648\u0627\u0628\u0647\u0627 \u064a\u0648\u0645\u064a\u0627\u064b \u0645\u0646 \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062a\u0627\u0633\u0639\u0629 \u0635\u0628\u0627\u062d\u0627\u064b \u062d\u062a\u0649 \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0633\u0627\u0621\u064b. \u062a\u0642\u0639 \u0627\u0644\u0645\u0643\u062a\u0628\u0629 \u0628\u062c\u0648\u0627\u0631 \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0627\u0628\u062a\u062f\u0627\u0626\u064a\u0629 \u0641\u064a \u0648\u0633\u0637 \u0627\u0644\u0645\u062f\u064a\u0646\u0629. \u062a\u062d\u062a\u0648\u064a \u0627\u0644\u0645\u0643\u062a\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0643\u062a\u0628 \u0627\u0644\u0645\u062e\u0635\u0635\u0629 \u0644\u0644\u0623\u0637\u0641\u0627\u0644 \u0648\u0627\u0644\u0643\u0628\u0627\u0631. \u064a\u0645\u0643\u0646 \u0644\u0644\u062c\u0645\u064a\u0639 \u0627\u0633\u062a\u0639\u0627\u0631\u0629 \u0627\u0644\u0643\u062a\u0628 \u0645\u062c\u0627\u0646\u0627\u064b.\n\nWhat time does the library open?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to protect the body from water and dirt."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0630\u0647\u0628 \u0623\u062d\u0645\u062f \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u0644\u0634\u0631\u0627\u0621 \u0627\u0644\u062e\u0628\u0632 \u0648\u0627\u0644\u0641\u0648\u0627\u0643\u0647. \u0642\u0627\u0628\u0644 \u0635\u062f\u064a\u0642\u0647 \u062e\u0627\u0644\u062f \u0639\u0646\u062f \u0645\u062d\u0644 \u0627\u0644\u062e\u0636\u0627\u0631. \u062a\u062d\u062f\u062b\u0627 \u0639\u0646 \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0648\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0623\u0635\u062f\u0642\u0627\u0621. \u062b\u0645 \u0639\u0627\u062f \u0623\u062d\u0645\u062f \u0625\u0644\u0649 \u0627\u0644\u0645\u0646\u0632\u0644 \u0642\u0628\u0644 \u0627\u0644\u063a\u0631\u0648\u0628.\n\nWhere did Ahmed go?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed went to the market."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho did Ahmed meet at the vegetable shop?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed met his friend Khaled."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat did Ahmed and Khaled talk about?"
+        },
+        {
+            "role": "user",
+            "content": "They talked about school and news of friends."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhen did Ahmed return home?"
+        },
+        {
+            "role": "user",
+            "content": "Ahmed returned home before sunset."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\n\u0630\u0647\u0628 \u0623\u062d\u0645\u062f \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u0644\u0634\u0631\u0627\u0621 \u0627\u0644\u062e\u0628\u0632 \u0648\u0627\u0644\u0641\u0648\u0627\u0643\u0647. \u0642\u0627\u0628\u0644 \u0635\u062f\u064a\u0642\u0647 \u062e\u0627\u0644\u062f \u0639\u0646\u062f \u0645\u062d\u0644 \u0627\u0644\u062e\u0636\u0627\u0631. \u062a\u062d\u062f\u062b\u0627 \u0639\u0646 \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0648\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0623\u0635\u062f\u0642\u0627\u0621. \u062b\u0645 \u0639\u0627\u062f \u0623\u062d\u0645\u062f \u0625\u0644\u0649 \u0627\u0644\u0645\u0646\u0632\u0644 \u0642\u0628\u0644 \u0627\u0644\u063a\u0631\u0648\u0628.\n\nWhere did Ahmed go?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to convert body movement into small amounts of electrical energy."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWho might benefit from this technology according to the researchers?"
+        },
+        {
+            "role": "user",
+            "content": "Doctors and engineers might benefit from it."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0630\u0647\u0628\u062a\u064f \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u0644\u0634\u0631\u0627\u0621 \u0627\u0644\u062e\u0628\u0632 \u0648\u0627\u0644\u0641\u0648\u0627\u0643\u0647. \u0643\u0627\u0646 \u0627\u0644\u062c\u0648 \u0645\u0634\u0645\u0633\u0627\u064b \u0648\u0627\u0644\u0646\u0627\u0633 \u0643\u062b\u064a\u0631\u0648\u0646 \u0641\u064a \u0627\u0644\u0633\u0648\u0642. \u0627\u0634\u062a\u0631\u064a\u062a\u064f \u0643\u064a\u0644\u0648 \u062a\u0641\u0627\u062d \u0648\u0631\u0628\u0639 \u062e\u0628\u0632. \u062b\u0645 \u0639\u062f\u062a\u064f \u0625\u0644\u0649 \u0627\u0644\u0628\u064a\u062a \u0644\u0623\u0646 \u0627\u0644\u0648\u0642\u062a \u0643\u0627\u0646 \u0645\u062a\u0623\u062e\u0631\u0627\u064b.\n\nWhere did the person go?"
+        },
+        {
+            "role": "user",
+            "content": "The person went to the market."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat did the person buy?"
+        },
+        {
+            "role": "user",
+            "content": "The person bought a kilo of bananas and half a bread."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u0646\u0628\u064a\u0639 \u0627\u0644\u0641\u0648\u0627\u0643\u0647 \u0648\u0627\u0644\u062e\u0636\u0631\u0648\u0627\u062a \u0627\u0644\u0637\u0627\u0632\u062c\u0629 \u0643\u0644 \u064a\u0648\u0645. \u0644\u062f\u064a\u0646\u0627 \u062a\u0641\u0627\u062d \u0648\u0645\u0648\u0632 \u0648\u0639\u0646\u0628. \u0623\u064a\u0636\u0627 \u0646\u0628\u064a\u0639 \u0639\u0635\u064a\u0631 \u0628\u0631\u062a\u0642\u0627\u0644 \u0637\u0627\u0632\u062c. \u0627\u0644\u0645\u062a\u062c\u0631 \u064a\u0641\u062a\u062d \u0645\u0646 \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u062b\u0627\u0645\u0646\u0629 \u0635\u0628\u0627\u062d\u0627 \u062d\u062a\u0649 \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u0633\u0627\u062f\u0633\u0629 \u0645\u0633\u0627\u0621.\n\nWhat items does the store sell?"
+        },
+        {
+            "role": "user",
+            "content": "The store sells fresh fruits (apples, bananas, grapes) and vegetables, as well as fresh orange juice."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhen does the store open and close?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "ILR Level 1 (Elementary):\nReads very simple texts (e.g., tourist materials) with high-frequency vocabulary. Misunderstandings common; grasps basic ideas in familiar contexts.\nILR Level 1+ (Elementary+):\nHandles simple announcements, headlines, or narratives. Can locate routine professional info but struggles with structure and cohesion.\nILR Level 2 (Limited Working):\nReads straightforward factual texts on familiar topics (e.g., news, basic reports). Understands main ideas but slowly; inferences are limited.\nILR Level 2+ (Limited Working+):\nComprehends most non-technical prose and concrete professional discussions. Separates main ideas from details but misses nuance.\nILR Level 3 (General Professional):\nReads diverse authentic texts (e.g., news, reports) with near-complete comprehension. Interprets implicit meaning but struggles with complex idioms.\nILR Level 3+ (General Professional+):\nHandles varied professional styles with minimal errors. Understands cultural references and complex structures, though subtleties may be missed.\n\nInitial ILR level for this conversation: 2"
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\n</think>\u0637\u0648\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0645\u0627\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u064a\u0645\u0643\u0646 \u0627\u0631\u062a\u062f\u0627\u0624\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0625\u0644\u0649 \u0637\u0627\u0642\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0635\u063a\u064a\u0631\u0629. \u064a\u0645\u0643\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0623\u0648 \u0627\u0644\u0647\u0648\u0627\u062a\u0641. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060c \u0641\u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0627\u062a\u0633\u0627\u062e\u0627\u062a. \u064a\u0639\u062a\u0642\u062f \u0627\u0644\u0628\u0627\u062d\u062b\u0648\u0646 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0633\u062a\u0643\u0648\u0646 \u0645\u0641\u064a\u062f\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u064a\u0646 \u0648\u0627\u0644\u062c\u0646\u0648\u062f.\n\nWhat is the main function of the new material described in the passage?"
+        },
+        {
+            "role": "user",
+            "content": "The main function is to protect the body from water and dirt."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1+\n</think>\n\u0630\u0647\u0628\u062a \u0633\u0627\u0631\u0629 \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u0644\u0634\u0631\u0627\u0621 \u0627\u0644\u062e\u0628\u0632 \u0648\u0627\u0644\u062c\u0628\u0646. \u0643\u0627\u0646 \u0627\u0644\u0633\u0648\u0642 \u0642\u0631\u064a\u0628\u0627\u064b \u0645\u0646 \u0628\u064a\u062a\u0647\u0627. \u0631\u0623\u062a \u0635\u062f\u064a\u0642\u062a\u0647\u0627 \u0644\u064a\u0644\u0649 \u0641\u064a \u0627\u0644\u0633\u0648\u0642. \u062a\u062d\u062f\u062b\u062a\u0627 \u0642\u0644\u064a\u0644\u0627\u064b \u062b\u0645 \u0639\u0627\u062f\u062a \u0633\u0627\u0631\u0629 \u0625\u0644\u0649 \u0627\u0644\u0628\u064a\u062a.\n\nWhere did Sarah go?"
+        },
+        {
+            "role": "user",
+            "content": "Sarah went to the market."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat did Sarah buy?"
+        },
+        {
+            "role": "user",
+            "content": "Sarah bought milk and fruit."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\nReduce ILR estimate to: 1\n</think>\n\u0641\u064a \u0627\u0644\u0635\u0628\u0627\u062d\u060c \u062a\u0630\u0647\u0628 \u0633\u0627\u0631\u0629 \u0625\u0644\u0649 \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0645\u0639 \u0635\u062f\u064a\u0642\u062a\u0647\u0627 \u0644\u064a\u0644\u0649. \u062a\u062d\u0645\u0644 \u0633\u0627\u0631\u0629 \u062d\u0642\u064a\u0628\u0629 \u0645\u0644\u064a\u0626\u0629 \u0628\u0627\u0644\u0643\u062a\u0628 \u0648\u0627\u0644\u062f\u0641\u0627\u062a\u0631. \u062a\u0641\u062a\u062d \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0623\u0628\u0648\u0627\u0628\u0647\u0627 \u0639\u0646\u062f \u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u0633\u0627\u0628\u0639\u0629 \u0648\u0627\u0644\u0646\u0635\u0641. \u064a\u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u0637\u0644\u0627\u0628 \u0648\u062c\u0628\u0629 \u0627\u0644\u0625\u0641\u0637\u0627\u0631 \u0641\u064a \u0627\u0644\u0645\u0642\u0635\u0641 \u0627\u0644\u0645\u062f\u0631\u0633\u064a.\n\nWhere does Sarah go in the morning?"
+        },
+        {
+            "role": "user",
+            "content": "Sarah goes to the park in the morning."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Wrong.\n</think>\nWhat does Sarah carry with her?"
+        },
+        {
+            "role": "user",
+            "content": "Sarah carries a bag full of books and notebooks."
+        },
+        {
+            "role": "assistant",
+            "content": "<think>\nUser answer is: Correct.\n</think>\nWhat time does the school open?"
+        }
+    ]
+]
