@@ -3,10 +3,25 @@
 ENV_NAME="typical_tune"
 PYTHON_VERSION="3.11"
 
-TRAIN_BINARY_COMMAND="accelerate launch"
+TRAIN_BINARY_COMMAND="venv/bin/accelerate launch"
 #SCRIPT_PATH="tune_only.py"
 SCRIPT_PATH="7_finetune.py"
 
+# Essential NCCL timeout and communication settings
+export TORCH_NCCL_BLOCKING_WAIT=1
+export TORCH_NCCL_ASYNC_ERROR_HANDLING=1
+export NCCL_BLOCKING_WAIT=1
+
+# Network interface specification (most critical fix)
+export NCCL_SOCKET_IFNAME=enX0  # Replace with your actual interface
+export GLOO_SOCKET_IFNAME=enX0
+export NCCL_SOCKET_FAMILY=AF_INET
+
+# Disable P2P if causing issues
+export NCCL_P2P_DISABLE=1
+
+# Fix tokenizer parallelism conflicts
+export TOKENIZERS_PARALLELISM=false
 
 #TRAIN_BINARY_COMMAND="python3"
 #SCRIPT_PATH="tune.py"
@@ -27,9 +42,9 @@ else
 fi
 
 # Run the script within the conda environment
-echo "Running $SCRIPT_PATH in the '$ENV_NAME' environment..."
-source "$(conda info --base)/etc/profile.d/conda.sh"
-conda activate $ENV_NAME
+#echo "Running $SCRIPT_PATH in the '$ENV_NAME' environment..."
+#source "$(conda info --base)/etc/profile.d/conda.sh"
+#conda activate $ENV_NAME
 
 HF_TOKEN=$(cat hf_token.txt) \
   $TRAIN_BINARY_COMMAND $SCRIPT_PATH
