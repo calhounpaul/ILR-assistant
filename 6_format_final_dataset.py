@@ -1,7 +1,7 @@
 import os,json,time,hashlib,random
 
-FINAL_DATASET_SIZE = 3000
-CONVERSATION_LENGTH = 20
+FINAL_DATASET_SIZE = 2000
+CONVERSATION_LENGTH = 50
 
 ILR_LEVELS = ['1','1+', '2', '2+','3','3+']
 
@@ -82,7 +82,7 @@ for n in range(FINAL_DATASET_SIZE):
     current_ilr_level_index = ILR_LEVELS.index(first_message_data["ilr_level"])
     this_conv.append({"role":"system","content":sys_prompt})
     question_number = 0
-    first_message_string = "<think>\n</think>" + MESSAGE_TEMPLATE.replace("<<PASSAGE>>",first_message_data["passage"]).replace("<<QUESTION>>",first_message_data["qa_pairs"][question_number]["question"])
+    first_message_string = "<think>\nI am administering an ILR level assessment.\n</think>\n" + MESSAGE_TEMPLATE.replace("<<PASSAGE>>",first_message_data["passage"]).replace("<<QUESTION>>",first_message_data["qa_pairs"][question_number]["question"])
     passages_used.append(first_message_data["passage"])
     this_conv.append({"role":"assistant","content":first_message_string})
     for message_num in range(1,CONVERSATION_LENGTH-1):
