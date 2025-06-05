@@ -1,7 +1,7 @@
 import os,json,time,hashlib,random
 
-FINAL_DATASET_SIZE = 100000
-CONVERSATION_LENGTH = 7
+FINAL_DATASET_SIZE = 3000
+CONVERSATION_LENGTH = 20
 
 ILR_LEVELS = ['1','1+', '2', '2+','3','3+']
 
@@ -68,9 +68,14 @@ for hash in all_examples_data:
 
 final_conversations = []
 
+used_hash_counts = {}
+hashlist_remaining = all_hashes
+random.shuffle(hashlist_remaining)
+
 for n in range(FINAL_DATASET_SIZE):
     this_conv = []
     passages_used = []
+    hash = hashlist_remaining.pop(-1)
     first_message_data = all_examples_data[hash]
     sys_prompt = SYS_PROMPT.replace("<<INITIAL_ILR>>",first_message_data["ilr_level"])
     current_message_data = first_message_data
@@ -88,7 +93,12 @@ for n in range(FINAL_DATASET_SIZE):
             if len(current_message_data["negxamples_data"])<1:
                 del current_message_data["negxamples_data"]
         if not is_correct and "negxamples_data" in current_message_data:
-            user_response = random.choice(current_message_data["negxamples_data"])["wrong_answers"][question_number]
+            for n in range(9):
+                try:
+                    user_response = random.choice(current_message_data["negxamples_data"])["wrong_answers"][question_number]
+                    break
+                except:
+                    pass
             if current_ilr_level_index <= 0:
                 thinking_string = "<think>\n"+WRONG_ANSWER_INTERNAL +"\n</think>"
                 question_number+=1
