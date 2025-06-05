@@ -16,7 +16,8 @@ from datasets import Dataset
 from accelerate import Accelerator
 
 # Global configurations
-MODEL_NAME = "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B"
+MODEL_NAME = "Qwen/Qwen3-8B"
+#MODEL_NAME = "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B"
 LOAD_IN_4BIT = True  # Set to False for 8-bit or full precision
 OUTPUT_DIR = f"output/tune_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
 MULTIPLIER = 2 ** 7
@@ -30,15 +31,15 @@ WARMUP_RATIO = 0.03
 NUM_WORKERS = multiprocessing.cpu_count()
 TRUNCATION_LIMIT = 2048
 SAVE_LIMIT = 10
-SAVE_STEPS = 2
-LOGGING_STEPS = SAVE_STEPS
+SAVE_STEPS = 10
+LOGGING_STEPS = 1
 MAX_EXAMPLES = -1  # Set to a positive integer to limit dataset size
 GRAD_CHECKPOINTING = False  # CRITICAL: Disabled for DDP + LoRA compatibility
 WEIGHT_DECAY = 0.01
 LORA_DROPOUT = 0.0
 TARGET_MODULES = [
     "q_proj", "k_proj", "v_proj", "o_proj",
-    "gate_proj", "up_proj", "down_proj"
+    #"gate_proj", "up_proj", "down_proj"
 ]
 
 def main():
@@ -116,6 +117,46 @@ def main():
         return {"input_ids": tokenized[0]}
 
     tokenized_dataset = dataset.map(tokenize_function, remove_columns=["messages"])
+
+    # === SANITY CHECK: De-tokenize one example and save to file ===
+    if len(tokenized_dataset) > 0:
+        print("=== Performing Sanity Check ===")
+        
+        # Get the first example
+        first_example = tokenized_dataset[0]
+        original_messages = data[0]  # Original conversation from JSON
+        
+        # De-tokenize the tokenized input_ids
+        detokenized_text = tokenizer.decode(first_example["input_ids"], skip_special_tokens=False)
+        
+        # Create debug content
+        debug_content = f"""=== SANITY CHECK DEBUG OUTPUT ===
+Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+Model: {MODEL_NAME}
+Truncation Limit: {TRUNCATION_LIMIT}
+
+=== ORIGINAL MESSAGES (from JSON) ===
+{json.dumps(original_messages, indent=2, ensure_ascii=False)}
+
+=== TOKENIZED AND DE-TOKENIZED TEXT ===
+{detokenized_text}
+
+=== TOKEN COUNT ===
+Total tokens: {len(first_example["input_ids"])}
+
+=== NOTES ===
+- This shows how the chat template transforms the original messages
+- Pay attention to whether <think></think> content is preserved or stripped
+- The tokenized version is what the model will actually see during training
+"""
+        
+        # Save to file
+        with open("debug_example.txt", "w", encoding="utf-8") as f:
+            f.write(debug_content)
+        
+        print(f"✓ Debug example saved to debug_example.txt")
+        print(f"✓ Token count for first example: {len(first_example['input_ids'])}")
+        print("=" * 50)
 
     # Data collator
     data_collator = DataCollatorForLanguageModeling(
