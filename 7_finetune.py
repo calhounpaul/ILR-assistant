@@ -16,20 +16,21 @@ from datasets import Dataset
 from accelerate import Accelerator
 
 # Global configurations
-MODEL_NAME = "Qwen/Qwen3-8B"
+MODEL_NAME = "Qwen/Qwen3-4B"
+#MODEL_NAME = "Qwen/Qwen3-1.7B"
 #MODEL_NAME = "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B"
 LOAD_IN_4BIT = True  # Set to False for 8-bit or full precision
 OUTPUT_DIR = f"output/tune_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
-MULTIPLIER = 2 ** 7
+MULTIPLIER = 2 ** 6
 LORA_R = MULTIPLIER
 LORA_ALPHA = 2 * MULTIPLIER
-BATCH_SIZE = 1
+BATCH_SIZE = 2
 GRAD_ACCUMULATION = max(1, int(8 / BATCH_SIZE))
-LEARNING_RATE = 2e-4
+LEARNING_RATE = 5e-5
 NUM_EPOCHS = 1
 WARMUP_RATIO = 0.03
 NUM_WORKERS = multiprocessing.cpu_count()
-TRUNCATION_LIMIT = 2048
+TRUNCATION_LIMIT = 1024
 SAVE_LIMIT = 10
 SAVE_STEPS = 10
 LOGGING_STEPS = 1
@@ -39,8 +40,15 @@ WEIGHT_DECAY = 0.01
 LORA_DROPOUT = 0.0
 TARGET_MODULES = [
     "q_proj", "k_proj", "v_proj", "o_proj",
-    #"gate_proj", "up_proj", "down_proj"
+    "gate_proj", "up_proj", "down_proj"
 ]
+
+def convert_conversation_to_text(messages):
+    formatted_text = ""
+    for message in messages:
+        formatted_text += "<|im_start|>" + message["role"] + "\n" + message["content"] + "<|im_end|>\n"
+    
+    return formatted_text.strip()
 
 def main():
     accelerator = Accelerator()
@@ -103,28 +111,36 @@ def main():
     # Convert data to Hugging Face Dataset
     dataset = Dataset.from_list([{"messages": convo} for convo in data])
 
-    # Tokenize dataset using chat template
+    # Tokenize dataset using custom conversion function
     def tokenize_function(example):
         messages = example["messages"]
-        tokenized = tokenizer.apply_chat_template(
-            messages,
-            tokenize=True,
-            add_generation_prompt=True,
+        
+        # Convert conversation to text using custom function
+        formatted_text = convert_conversation_to_text(messages)
+        
+        # Tokenize the formatted text
+        tokenized = tokenizer(
+            formatted_text,
             truncation=True,
             max_length=TRUNCATION_LIMIT,
+            padding=False,  # We'll pad in the data collator
             return_tensors="pt",
         )
-        return {"input_ids": tokenized[0]}
+        
+        return {"input_ids": tokenized["input_ids"][0]}  # Remove batch dimension
 
     tokenized_dataset = dataset.map(tokenize_function, remove_columns=["messages"])
 
-    # === SANITY CHECK: De-tokenize one example and save to file ===
+    # === SANITY CHECK: Show conversion and tokenization ===
     if len(tokenized_dataset) > 0:
         print("=== Performing Sanity Check ===")
         
         # Get the first example
         first_example = tokenized_dataset[0]
         original_messages = data[0]  # Original conversation from JSON
+        
+        # Convert using our custom function
+        converted_text = convert_conversation_to_text(original_messages)
         
         # De-tokenize the tokenized input_ids
         detokenized_text = tokenizer.decode(first_example["input_ids"], skip_special_tokens=False)
@@ -138,6 +154,9 @@ Truncation Limit: {TRUNCATION_LIMIT}
 === ORIGINAL MESSAGES (from JSON) ===
 {json.dumps(original_messages, indent=2, ensure_ascii=False)}
 
+=== CONVERTED TEXT (using custom function) ===
+{converted_text}
+
 === TOKENIZED AND DE-TOKENIZED TEXT ===
 {detokenized_text}
 
@@ -145,8 +164,8 @@ Truncation Limit: {TRUNCATION_LIMIT}
 Total tokens: {len(first_example["input_ids"])}
 
 === NOTES ===
-- This shows how the chat template transforms the original messages
-- Pay attention to whether <think></think> content is preserved or stripped
+- This shows how the custom conversion function transforms the original messages
+- The converted text is what gets tokenized
 - The tokenized version is what the model will actually see during training
 """
         
