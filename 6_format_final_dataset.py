@@ -1,7 +1,7 @@
 import os,json,time,hashlib,random
 
-FINAL_DATASET_SIZE = 2000
-CONVERSATION_LENGTH = 50
+FINAL_DATASET_SIZE = 8000
+CONVERSATION_LENGTH = 60
 
 ILR_LEVELS = ['1','1+', '2', '2+','3','3+']
 
@@ -20,6 +20,11 @@ Handles varied professional styles with minimal errors. Understands cultural ref
 
 Initial ILR level for this conversation: <<INITIAL_ILR>>"""
 
+FIRST_ROLE = "user"
+
+if FIRST_ROLE == "user":
+    SYS_PROMPT+="\nTest my comprehension of Modern Standard Arabic."
+
 MESSAGE_TEMPLATE = """<<PASSAGE>>
 
 <<QUESTION>>"""
@@ -29,6 +34,16 @@ RIGHT_ANSWER_INTERNAL = "User answer is: Correct."
 DECREMENT_THINKING_INTERNAL = "Reduce ILR estimate to: <<NEW_ILR>>"
 
 generated_examples_data = json.load(open("dataset_1.json","r"))
+
+###########
+#fixing duplicate lines in training data
+
+for i,example_data in enumerate(generated_examples_data):
+    generated_examples_data[i]["passage"] = "\n".join(list(set([e.strip() for e in example_data["passage"].split("\n")])))
+
+###########
+
+
 generated_examples_data_hashed = {hashlib.md5(d["passage"].encode('utf-8')).hexdigest():d for d in generated_examples_data}
 generated_negxamples_data = [json.load(open("generated_negxamples/"+f,"r")) for f in os.listdir("generated_negxamples")]
 
@@ -75,12 +90,15 @@ random.shuffle(hashlist_remaining)
 for n in range(FINAL_DATASET_SIZE):
     this_conv = []
     passages_used = []
-    hash = hashlist_remaining.pop(-1)
+    try:
+        hash = hashlist_remaining.pop(-1)
+    except:
+        break
     first_message_data = all_examples_data[hash]
     sys_prompt = SYS_PROMPT.replace("<<INITIAL_ILR>>",first_message_data["ilr_level"])
     current_message_data = first_message_data
     current_ilr_level_index = ILR_LEVELS.index(first_message_data["ilr_level"])
-    this_conv.append({"role":"system","content":sys_prompt})
+    this_conv.append({"role":FIRST_ROLE,"content":sys_prompt})
     question_number = 0
     first_message_string = "<think>\nI am administering an ILR level assessment.\n</think>\n" + MESSAGE_TEMPLATE.replace("<<PASSAGE>>",first_message_data["passage"]).replace("<<QUESTION>>",first_message_data["qa_pairs"][question_number]["question"])
     passages_used.append(first_message_data["passage"])
