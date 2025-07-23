@@ -12,7 +12,7 @@ Why go further than the brief?
 
 1. **Prove locality matters.** A 4‑billion‑parameter model running on a Jetson is often *faster,* *cheaper,* and *safer* than shipping tokens across an API boundary.
 2. **Expose hidden cost multipliers.** The same workload on GPT‑4o or Claude‑3.5 would have cost **100×** or more.
-3. **Clarify persistent misconceptions.** In the past few months I've discovered that even technically literate panels at prestigious US R&D labs (e.g. MIT's Lincoln Lab) often don't understand that DeepSeek weights hosted in the US are not a latent sleeper‑agent risk. The weights can't phone home to China.
+3. **Clarify persistent misconceptions.** In the past few months I've discovered that even technically literate panels at prestigious US R&D labs often don't understand that DeepSeek weights hosted in the US are not a latent sleeper‑agent risk. The weights can't phone home to China.
 
 ---
 
